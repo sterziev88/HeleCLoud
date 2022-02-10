@@ -1,3 +1,3 @@
 Version 1.2
 
-Add alb access log to s3 bucket.
+Add alb access logs to s3 bucket.
