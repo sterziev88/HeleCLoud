@@ -20,3 +20,7 @@ variable "ssh_access" {
   default       = "77.85.251.253/32"
   description   = "Give SSH Access into EC2 for selected IP"
 }
+
+variable "prefix_s3" {
+  default       = "alb-logs"
+}
