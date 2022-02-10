@@ -1,3 +1,4 @@
-# HeleCLoud
+#HeleCloud
 
-# That repo is related to upcoming interview.
+This repo is created with test purposes.
+That version build 2 webserves with alb,sg,route tables,vpc and subnets.
